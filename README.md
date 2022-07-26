@@ -3,7 +3,7 @@
 This repository contains starter code for Portfolio Website in ReactJS. <br />
 
 View Demo👇: <br />
-https://openmind.vercel.app/ <br />
+https://2tribe-one.vercel.app/<br />
 
 If you want to learn how to create it please follow below tutorial👇: <br />
 
