@@ -2,7 +2,7 @@ export const Work = [
     {
         id:1,
         name:"Dobyt Generators",
-        description:"A Landing Page for the above company.",
+        description:"The landing page for a developing company in Nigeria. which focuses on generators and offers consumers first-rate services from the comfort of their own home.",
         tags:["Figma","Design","Web Design"],
         
         demo:"https://www.figma.com/file/CFND2FHCWIvx40elaMDqYg/Dobyt-Enterprise?node-id=48%3A2",
