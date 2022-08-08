@@ -56,6 +56,16 @@ export const Work = [
         github:""
         
     },
+     {
+        id:7,
+        name:"MicroAPI",
+        description:"An API Store Website , Gives user access and documentation to any api...",
+        tags:["Figma","Web"],
+        
+        demo:"https://www.figma.com/file/dtXOOyYE5wJEKSC9HnOKcI/MicroAPI?node-id=0%3A1",
+        github:""
+        
+    },
     
   
 ] 
