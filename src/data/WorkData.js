@@ -1,11 +1,11 @@
 export const Work = [
     {
         id:1,
-        name:"iCube",
-        description:"It is build with Unity on top of the C# Language.",
-        tags:["Unity","C#","Games"],
+        name:"Dobyt Generators",
+        description:"A Landing Page for the above company.",
+        tags:["Figma","Design","Web Design"],
         
-        demo:"https://drive.google.com/file/d/1G4S4j2-4VEqJ0UYb3It3AE9Tu7oNvx_f/view?usp=sharing",
+        demo:"https://www.figma.com/file/CFND2FHCWIvx40elaMDqYg/Dobyt-Enterprise?node-id=48%3A2",
         github:"https://github.com/iMorgann/Gaming"
     },
     {
