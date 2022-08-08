@@ -66,6 +66,16 @@ export const Work = [
         github:""
         
     },
+    {
+        id:8,
+        name:"Payment",
+        description:"A Mobile Payment App, with the ability to send and receive money.",
+        tags:["Figma","Mobile"],
+        
+        demo:"https://www.figma.com/file/ZgnNV7641i5wOq2IEUZj7A/Payment",
+        github:""
+        
+    },
     
   
 ] 
