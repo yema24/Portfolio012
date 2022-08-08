@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import React from 'react'
 import { NavLink } from 'react-router-dom';
 import styled from 'styled-components';
-import { Github } from '../components/AllSvgs';
+
 
 
 
@@ -70,16 +70,7 @@ ${Box}:hover &{
 }
 `
 
-const Git = styled(NavLink)`
-color: inherit;
-text-decoration: none;
-${Box}:hover &{
-    &>*{
-        fill:${props =>props.theme.text};
-    }
-}
 
-`
 
 // Framer motion configuration
 const Item = {
@@ -116,9 +107,7 @@ const Card = (props) => {
                 <Link to={{pathname: `${demo}`}} target="_blank">
                     Visit
                 </Link>
-                <Git to={{pathname: `${github}`}} target="_blank">
-                    <Github width={30} height={30} />
-                </Git>
+                
             </Footer>
         </Box>
     )
