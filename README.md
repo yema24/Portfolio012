@@ -1,6 +1,5 @@
-# Build a Stunning Portfolio with React JS using Styled-Components and framer-motion for awesome Animations
+# A Portfolio with React JS using Styled-Components and framer-motion for awesome Animations
 
-This repository contains starter code for Portfolio Website in ReactJS. <br />
 
 View Demo👇: <br />
 https://2tribe-one.vercel.app/<br />
