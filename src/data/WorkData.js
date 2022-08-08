@@ -10,50 +10,50 @@ export const Work = [
     },
     {
         id:2,
-        name:"Job listing website",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-        tags:["react","sass"],
+        name:"A Simple Login/Register Page",
+        description:"A Simplistic Design for a Login and Register Page for a Mobile App.",
+        tags:["Figma","Mobile App"],
         
-        demo:"",
+        demo:"https://www.figma.com/file/AbsYVKmwV1i5O7NNKwzjtc/surface?node-id=0%3A1",
         github:""
         
     },
     {
         id:3,
-        name:"Dev.to Clone",
-        description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-        tags:["react","api","sass"],
+        name:"NFT MarketPlace",
+        description:"A Landing Page Design Concept for a NFT Marketplace",
+        tags:["Figma","Web","NFT"],
         
-        demo:"",
+        demo:"https://www.figma.com/file/VDx3MN9kbXgV4nbwKmr5s8/NFT",
         github:""
     },
     {
         id:4,
-        name:"Sidebar Menu",
-        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
-        tags:["react","styledComponents","react-router"],
+        name:"BlueStockings Logo",
+        description:"A cool looking logo concept.",
+        tags:["Figma","Logo"],
         
-        demo:"",
+        demo:"https://www.figma.com/file/FpEqBZ6wA5YeOEcD8QgaBI/BlueStockings?node-id=52%3A2",
         github:""
        
     },{
         id:5,
-        name:"Todo App(React + Redux)",
-        description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-        tags:["react","redux","framer-motion"],
+        name:"Dashboard Design",
+        description:"A Responsive Dashboard Concept ,Classy,Simplistic and Detailed.",
+        tags:["Figma","Web","Mobile"],
         
-        demo:"",
+        demo:"https://www.figma.com/file/pouAZNpHvROz5sKmlVshSJ/DashBoard?node-id=0%3A1",
         github:""
         
     },
     {
         id:6,
-        name:"Netflix Clone",
-        description:"A Netflix Clone. Built from scratch.",
-        tags:["react","react-router","css"],
+        name:"Convey",
+        description:"A Food Delivery App..",
+        tags:["Figma","Mobile App","neumorphism"],
         
-        demo:"amuck-shake.surge.sh",
-        github:"https://github.com/iMorgann/Netflix"
+        demo:"https://www.figma.com/file/ACZ7PgxYVaKaaioNrT1FxG/Convey?node-id=1%3A155",
+        github:""
         
     },
     
